@@ -458,8 +458,8 @@ Script3Section:NewButton("Less Server", "", function()
 end)
 
 wait(3.5)
-Script3Section:NewButton("noclip made by itzm", "", function()
-
+Script3Section:NewButton("noclip made by me itzm", "", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/guest433/Idkhello/main/noclip.lua"))()
 end)
 -- tab
 wait(3.4)
