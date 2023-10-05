@@ -65,6 +65,9 @@ print ("error")
 print ("error")
 print ("error")
 
+error ("hello there's a warning incoming and your account got hack pls change your password)
+warning ("..game.Players.Name
+    
 wait(2)
 game.StarterGui:SetCore("SendNotification", {
     
